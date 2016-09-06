@@ -1,0 +1,4 @@
+module Birthdayreplies
+  class Validator
+  end
+end
